@@ -1,0 +1,13 @@
+package pl.wojtekrok.maly_test;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MalyTestApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MalyTestApplication.class, args);
+    }
+
+}
